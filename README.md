@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzsoomit
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...sumitpayal@gmail.com
 
