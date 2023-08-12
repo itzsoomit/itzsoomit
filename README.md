@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itzsoomit
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in development
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ...sumitpayal@gmail.com
 
 <!---
