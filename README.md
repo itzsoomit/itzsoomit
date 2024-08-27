@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me ...sumitpayal@gmail.com
+- 📫 How to reach me sumitpayal@gmail.com
 
 <!---
 itzsoomit/itzsoomit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
