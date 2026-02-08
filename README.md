@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itzsoomit
+- 👋 Hi, I’m Sumit
 - 👀 I’m interested in development
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML,Springboot,DevOps,etc.
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me sumitpayal@gmail.com
 
